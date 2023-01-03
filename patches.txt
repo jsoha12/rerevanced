@@ -49,3 +49,13 @@ sponsorblock
 tablet-mini-player
 theme
 video-ads
+background-play
+codecs-unlock
+compact-header
+exclusive-audio-playback
+hide-get-premium	Removes
+minimized-playback-music
+music-microg-support
+music-video-ads
+tasteBuilder-remover
+upgrade-button-remover
